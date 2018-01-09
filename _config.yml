@@ -13,7 +13,7 @@ url:                https://robertmato.github.io/
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        cyan
+highlighter:        teal
 kramdown:
   auto_ids:         true
   footnote_nr:      1
