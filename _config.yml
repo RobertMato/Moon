@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   
+disqus_shortname:
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -52,6 +52,7 @@ twitter:            robert_mato
 #foursquare:        username
 #steam:             username
 #dribbble:          username
+twitch:             robertmato
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
