@@ -11,6 +11,8 @@ locale:             en_US
 url:                https://robertmato.github.io/
 #'A portfolio of graphic and game design.'
 
+# This line is just a test upload from my Chromebook.
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
