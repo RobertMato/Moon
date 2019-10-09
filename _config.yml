@@ -1,6 +1,6 @@
 # Site
 title:              Robert Mato
-bio:                "Uploaded from my Chromebook." #"Creating for creativity's sake."
+bio:                "Creating for creativity's sake."
 description:        "Graphic design, game design, and more. A complete portfolio of Robert Mato."
 reading_time:       true
 words_per_minute:   200
@@ -11,13 +11,10 @@ locale:             en_US
 url:                https://robertmato.github.io/
 #'A portfolio of graphic and game design.'
 
-# This line is just a test upload from my Chromebook.
-# Test 2. Changing the Bio text.
-
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        orange #teal
+highlighter:        red #teal
 kramdown:
   auto_ids:         true
   footnote_nr:      1
