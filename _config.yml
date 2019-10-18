@@ -14,7 +14,7 @@ url:                https://robertmato.github.io/
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        red #teal
+highlighter:        teal
 kramdown:
   auto_ids:         true
   footnote_nr:      1
